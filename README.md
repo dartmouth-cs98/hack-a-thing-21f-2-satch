@@ -3,14 +3,14 @@
 
 ## What you built? 
 
-TODO: Short description of what you attempted to build
+I built on my existing react native app from the last hack-a-thing, adding in more complicated features and functions.
 
 Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+![](/images/Upload.png)
 
 ## Who Did What?
 
-TODO: who worked on what part?
+I worked on it all myself
 
 ## What you learned
 
@@ -18,8 +18,9 @@ TODO: what worked / what didn't work
 
 ## Authors
 
-TODO: list of authors
+Satch Baker '22
 
 ## Acknowledgments
 
-TODO: cite any tutorials followed here
+I used the advanced React Native tutorial from CS52
+https://cs52.me/assignments/sa/react-native-part-2/
